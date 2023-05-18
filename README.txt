@@ -1,32 +1,11 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Welcome to Deboswork! This website showcases my work in the field of data analytics and provides insights into my projects and expertise. It serves as a platform to demonstrate my skills, experience, and passion for data analysis.
 
+Website Sections
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+About Me: Learn more about my background, experience, and interests in the field of data analytics. Discover why I am passionate about using data to drive meaningful insights and make informed decisions. Download my resume to get a comprehensive overview of my professional experience, education, certifications, and achievements. This section provides detailed information about my qualifications and relevant work history.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Skills: Get an overview of my technical skills in data analytics, including programming languages, data visualisation, statistical analysis, data manipulation, and database management. I have experience with a wide range of tools and technologies commonly used in the field.
 
-(* = not included)
+Projects: Explore a collection of my data analytics projects, including visualisations, analyses, and applications created using various tools such as Tableau, Excel, Python, and more. Each project provides a description, key insights, and highlights the techniques and tools utilised.
 
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Contact: Reach out to me for inquiries, collaboration opportunities, or any questions you may have.
